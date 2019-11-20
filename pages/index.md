@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Julie Norris
 permalink: /
 section: home
 intro_paragraph: >
