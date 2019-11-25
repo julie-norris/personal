@@ -7,12 +7,10 @@ intro_paragraph: |
   This is an example of a standard Jekyll page. You can edit it with Netlify
   CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Julie Norris is a Software Engineer who enjoys working on projects that make sense. I work in Python and Javascript and have at times used Pandas, Bootstrap, and a few other libraries. 
 
-### A heading
+### Now
+In June 2017 I attended Hackbright Academy's Software Engineering Fellowship program. At that time I created an app called Carpool! which was built with the idea of helping working mothers support their children by providing and finding rides to the plethora of extracurricular activities that ridiculously happen between 3:00 and 5:00 PM. Yes, developmentally appropriate. Not at all doable for those of us that work out of the home. Carpool! was never deployed but can be seen at this link:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### And Then
+Before 2017 I worked as an educator in positions that included Princpal of the Tenderloin Community School in San Francisco, Data Coach supporting 77 schools in SFUSD, and Instructional Coach. Before that I was a teacher, happily. 
