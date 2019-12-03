@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Julie Norris
+title: CarPool!  
+##### created by Julie Norris
 permalink: /
 section: home
 intro_paragraph: >
