@@ -5,7 +5,7 @@ title: CarPool!
 permalink: /
 section: home
 intro_paragraph: >
-![Then](./pictures/sisters1.png)
+
   <!--[Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
   provides the basics to get a fast, static website deployed on Netlify.
   Features [Netlify CMS](https://www.netlifycms.org), responsive
@@ -14,4 +14,6 @@ intro_paragraph: >
   
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qmX0jOSGpW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  ![Then](./pictures/sisters1.png)
 ---
