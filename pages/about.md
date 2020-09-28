@@ -12,9 +12,7 @@ Julie Norris is an Educator and Software Engineer who enjoys working on projects
 <iframe width="1290" height="963" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQvnO5DtwLEqBUeMVLJp2G3ZisodwC2nzEYV71olZOKD2ex0XnGiaXxgkxN4SJOh_GNSuvgKZdYcYUe/pubchart?oid=1725015505&amp;format=interactive">
 </iframe>
 
-And things like this:
-
-
+Earlier in 2020 I worked as a Data Engineer contractor for eSpark Learning. eSpark is an adaptive, online program that provides K-5 math and reading instruction at each student’s level. The project was a failure analysis of students after they completed the placement test. 
 
 My first app, built during my Software Engineering Fellowship at Hackbright Academy, called Carpool! was built with the idea of helping working mothers support their children by providing and finding rides to the plethora of extracurricular activities that ridiculously happen between 3:00 and 5:00 PM. Yes, developmentally appropriate. Not at all doable for those of us that work out of the home. (video on my home page)
 
